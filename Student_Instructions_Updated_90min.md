@@ -1,6 +1,6 @@
-# Power BI Workshop – Student Instructions (90 Minutes)
+# Power BI Workshop – Student Instructions
 
-© Explore Data Science Academy
+© ALX Africa 
 
 ## Workshop title
 **Visualisation Predict: SDG 1 – Poverty, Unemployment, and COVID-19 in South Africa**
